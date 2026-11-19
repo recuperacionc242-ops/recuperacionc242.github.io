@@ -1,0 +1,14 @@
+body {
+    background-color: #f80404;
+}
+
+h1 {
+    color: #000000;
+}
+
+.contenedor-h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
